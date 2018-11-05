@@ -2,4 +2,4 @@
 ---
 ## //TODO: Change from default README
 ---
-[Github Markdown](HOWTO.md)
+[Github Markdown Cheatsheet](HOWTO.md)
