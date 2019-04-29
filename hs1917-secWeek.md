@@ -8,6 +8,7 @@
 ### Practical Activities
 
 **Buffer Overflows** (Covered in slides)
+
 1.0 - [corrupt]()
 
 1.1 - [jump]()
